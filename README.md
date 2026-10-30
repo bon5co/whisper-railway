@@ -1,5 +1,9 @@
 # whisper-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/whisper-stt-api-or-just-updated-transcri?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Whisper STT API template](https://railway.com/deploy/whisper-stt-api-or-just-updated-transcri?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for the Railway template **Whisper STT API** — [Speaches](https://github.com/speaches-ai/speaches)
 0.9.0-rc.3 (faster-whisper / CTranslate2) serving the OpenAI-compatible
 `/v1/audio/transcriptions` and `/v1/audio/translations` endpoints.
